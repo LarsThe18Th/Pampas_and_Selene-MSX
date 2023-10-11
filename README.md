@@ -1,4 +1,4 @@
-![Cartridge combinations](https://github.com/LarsThe18Th/LarsThe18Th/blob/main/-Temp/Pampas%26Selene/PandS.jpg)
+![Cartridge combinations](https://raw.githubusercontent.com/LarsThe18Th/Pampas_and_Selene-MSX/main/PandS.jpg)
 
 ## Cartridge combinations<br>
 
