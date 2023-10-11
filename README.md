@@ -4,7 +4,7 @@
 
 Here is a list of all Cartridge ROM combinations in Pampas & Selene.
 
-![Cartridge combinations](https://github.com/LarsThe18Th/LarsThe18Th/blob/main/-Temp/Pampas%26Selene/Naamloos.png)
+![Cartridge combinations](https://raw.githubusercontent.com/LarsThe18Th/Pampas_and_Selene-MSX/main/Naamloos.png)
 
 
 - Konami
