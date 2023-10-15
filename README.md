@@ -48,7 +48,7 @@ replace F8 with 00<br><br>
 
 ## How to make a backup of your PHYSICAL copy, to play in a emulator.<br>
 
-**<ins>WARNING!!!... Distributing this game is prohibited...<br>
+**<ins>WARNING!!!... Please DO NOT PIRATE this game...<br>
 Instead buy a DIGITAL copy [HERE](https://www.unepicfran.com/en/msx_pampas.html) to appreciate the creators.</ins>**<br><br>
 
 
