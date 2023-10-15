@@ -46,7 +46,7 @@ replace C0 with C9<br><br>
 Search HEX string F821E7030601<br>
 replace F8 with 00<br><br>
 
-## How to make a backup of your PHYSICAL copy to play in a emulator.<br>
+## How to make a backup of your PHYSICAL copy, to play in a emulator.<br>
 
 **<ins>WARNING!!!... Distributing this game is prohibited...<br>
 Instead buy a DIGITAL copy [HERE](https://www.unepicfran.com/en/msx_pampas.html) to appreciate the creators.</ins>**<br><br>
