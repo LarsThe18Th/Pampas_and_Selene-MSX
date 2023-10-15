@@ -48,7 +48,7 @@ replace F8 with 00<br><br>
 
 ## How to make a backup and play it in a emulator.<br>
 
-**<ins>WARNING!!!... Distributing this game is prohibited... 
+**<ins>WARNING!!!... Distributing this game is prohibited...<br>
 Instead buy the original game [HERE](https://www.unepicfran.com/en/msx_pampas.html) to appreciate the creators.</ins>**<br><br>
 
 
