@@ -46,11 +46,13 @@ replace C0 with C9<br><br>
 Search HEX string F821E7030601<br>
 replace F8 with 00<br><br>
 
-## How to make a backup of your PHYSICAL copy, to play in a emulator. (v0.1 , v0.3)<br>
+## How to make a backup of your PHYSICAL copy, to play in a emulator.<br>
+
 
 **<ins>WARNING!!!... Please DO NOT PIRATE this game...</ins> (That includes you too RickySpanish)<br>
 <ins>Instead buy a DIGITAL copy [HERE](https://www.unepicfran.com/en/msx_pampas.html) to appreciate the creators.</ins>**<br><br>
 
+(v0.1 , v0.3)<br>
 
 - Since it is a 2-Megabyte ROM you need a storage card (in slot 1), such as a Megaflashrom-SD or Carnivore.
 - Download [SAVEROM.COM](https://github.com/LarsThe18Th/LarsThe18Th/raw/main/-Temp/Pampas%26Selene/saverom.rar) and put it on the storage device.
