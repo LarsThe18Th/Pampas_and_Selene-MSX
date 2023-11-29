@@ -51,7 +51,7 @@ replace F8 with 00<br><br>
 
 **<ins>WARNING!!!... Please DO NOT PIRATE this game...</ins> (That includes you too RickySpanish)<br>
 <ins>Instead buy a DIGITAL copy [HERE](https://www.unepicfran.com/en/msx_pampas.html) to appreciate the creators and and receive a nice manual.<br>
-(including instructions for the Megaflashrom-SD).</ins>**<br><br>
+(including instructions to flash the game on the Megaflashrom-SD).</ins>**<br><br>
 
 (v0.1 , v0.3)<br>
 
