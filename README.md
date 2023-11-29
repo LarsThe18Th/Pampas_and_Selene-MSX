@@ -28,28 +28,28 @@ I created a **DUMMY** ROM-file for every **<ins>NOT Freeware</ins>** game, for t
 
 ## How to become invulnerable for almost everything.<br>
 
-- Invulnerable for Enemies<br>
+- Invulnerable for Enemies (v0.1 , v0.5)<br>
 Search HEX string C03A64CBFE70<br>
 replace C0 with C9<br>
 
-- Invulnerable for Bullets<br>
+- Invulnerable for Bullets (v0.1)<br>
 Search HEX string DA5FB73AD4C747<br>
 replace DA with C3<br>
 
-- Invulnerable for Water<br>
+- Invulnerable for Water (v0.1)<br>
 search string C03E193212C83E<br>
 replace C0 with C9<br><br>
 
 ## How to get 999 Arrows, Magic, Coins.<br>
 
-- Pick up One and get 999<br>
+- Pick up One and get 999 (v0.1 , v0.5)<br>
 Search HEX string F821E7030601<br>
 replace F8 with 00<br><br>
 
-## How to make a backup of your PHYSICAL copy, to play in a emulator.<br>
+## How to make a backup of your PHYSICAL copy, to play in a emulator. (v0.1 , v0.3)<br>
 
-**<ins>WARNING!!!... Please DO NOT PIRATE this game...<br>
-Instead buy a DIGITAL copy [HERE](https://www.unepicfran.com/en/msx_pampas.html) to appreciate the creators.</ins>**<br><br>
+**<ins>WARNING!!!... Please DO NOT PIRATE this game...</ins> (That includes you too RickySpanish)<br>
+<ins>Instead buy a DIGITAL copy [HERE](https://www.unepicfran.com/en/msx_pampas.html) to appreciate the creators.</ins>**<br><br>
 
 
 - Since it is a 2-Megabyte ROM you need a storage card (in slot 1), such as a Megaflashrom-SD or Carnivore.
