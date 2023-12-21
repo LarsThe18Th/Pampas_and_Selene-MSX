@@ -56,7 +56,7 @@ replace F8 with 00<br><br>
 (v0.1 , v0.3)<br>
 
 - Since it is a 2-Megabyte ROM you need a storage card (in slot 1), such as a Megaflashrom-SD or Carnivore.
-- Download [SAVEROM.COM](https://github.com/LarsThe18Th/LarsThe18Th/raw/main/-Temp/Pampas%26Selene/saverom.rar) and put it on the storage device.
+- Download [SAVEROM.COM](http://bifi.msxnet.org/msxnet/utils/) and put it on the storage device.
 - Put Pampas & Selene in slot 2. (Hold [Q] to skip the game) and boot from the storage card.
 
 In DOS, use the following command.
