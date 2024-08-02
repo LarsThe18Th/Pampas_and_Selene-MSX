@@ -49,7 +49,7 @@ replace F8 with 00<br><br>
 ## How to make a backup of your PHYSICAL copy, to play in a emulator.<br>
 
 
-**<ins>WARNING!!!... Please DO NOT PIRATE this game...</ins> (That includes you too RickySpanish)<br>
+**<ins>WARNING!!!... Please DO NOT PIRATE this game...</ins><br>
 <ins>Instead buy a DIGITAL copy [HERE](https://www.unepicfran.com/en/msx_pampas.html) to appreciate the creators and and receive a nice manual.<br>
 (including instructions to flash the game on the Megaflashrom-SD).</ins>**<br><br>
 
